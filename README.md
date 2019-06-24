@@ -1,2 +1,2 @@
-# mafiAI
+# mafia i
 mafia AI
